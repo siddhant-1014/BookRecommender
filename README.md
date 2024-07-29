@@ -1,2 +1,1 @@
-# BookRecommender
-A collaborative book recommendation system
+# Book_Recommender
